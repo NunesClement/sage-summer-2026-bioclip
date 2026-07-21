@@ -1,0 +1,8806 @@
+{
+ "images": [
+  {
+   "file": "0011f35a-8c97-5d30-9bb4-3704eec719a0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.851,
+     "bbox": [
+      0.4194,
+      0.8767,
+      0.1805,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.4208,
+      0.8767,
+      0.0777,
+      0.0729
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "00dbc2ec-405e-5191-9800-d28359d7e3dd.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.925,
+     "bbox": [
+      0.0472,
+      0.8395,
+      0.2722,
+      0.1308
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "0136b22a-9218-5287-950d-cc3c8a2eac47.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.033,
+     "bbox": [
+      0.0,
+      0.9086,
+      0.0819,
+      0.0617
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "017f0ed6-a7b7-501e-969a-c7ad7e406b17.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.806,
+     "bbox": [
+      0.8152,
+      0.7847,
+      0.1847,
+      0.1093
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.9263,
+      0.8107,
+      0.0722,
+      0.0815
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "02307005-82a1-5744-97d7-80da67f01a76.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "02bbb184-90ff-5158-9077-affe122a4dc3.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "04522ad2-53e3-58e1-872e-227e24eec1a4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.473,
+     "bbox": [
+      0.3638,
+      0.887,
+      0.018,
+      0.0925
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.184,
+     "bbox": [
+      0.3263,
+      0.8851,
+      0.0555,
+      0.0944
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "04ee0263-99a1-5129-a41e-f0b3f468a0a0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.896,
+     "bbox": [
+      0.575,
+      0.8211,
+      0.1569,
+      0.0902
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "0521756c-bfc2-5187-9f14-ce63c869e94f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.872,
+     "bbox": [
+      0.4444,
+      0.8385,
+      0.1333,
+      0.0538
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "057f3ab6-62d6-53d8-8228-8fde9b57bb9a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.9666,
+      0.3541,
+      0.0333,
+      0.0538
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "06c2f7cf-0235-59be-b5b7-415a140eb58b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.848,
+     "bbox": [
+      0.1416,
+      0.537,
+      0.1041,
+      0.0407
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "07cadf34-1511-5efe-be52-44af4d2c43d3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.511,
+     "bbox": [
+      0.8236,
+      0.8194,
+      0.025,
+      0.0364
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.019,
+     "bbox": [
+      0.8222,
+      0.776,
+      0.0263,
+      0.0815
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "08062ec5-d334-5c1a-a45b-62e4b617a41b.webp",
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.146,
+     "bbox": [
+      0.0013,
+      0.0203,
+      0.9972,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "080d5c8a-1ec4-5f88-9052-4b22f41da0be.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.652,
+     "bbox": [
+      0.2444,
+      0.8541,
+      0.1569,
+      0.0868
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.968,
+      0.3541,
+      0.0319,
+      0.0486
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9611,
+      0.3489,
+      0.0388,
+      0.0885
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "085be0ab-ea09-5e9a-b986-6c344e7cd470.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.854,
+     "bbox": [
+      0.2277,
+      0.6913,
+      0.1513,
+      0.0617
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "08ab175a-fc1a-5c28-8d54-d8c1698ace3e.webp",
+   "detections": [],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "0931c1e7-1357-5fdf-b85e-dbef792d1f4d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.562,
+     "bbox": [
+      0.4027,
+      0.9166,
+      0.1027,
+      0.0625
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "0957f6c6-8f0e-518b-ac64-1e00229d8637.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.017,
+     "bbox": [
+      0.9666,
+      0.3541,
+      0.0333,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.0013,
+      0.9027,
+      0.0347,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9624,
+      0.3541,
+      0.0375,
+      0.125
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "0a35ff2d-bb8a-5d0d-b0f6-3d1e321a75a9.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "0a75afcf-cb35-579d-807d-aaf55e810a4d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.865,
+     "bbox": [
+      0.8277,
+      0.724,
+      0.0736,
+      0.0907
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "0aa0b38e-76e7-5971-804d-c7727d03d8d4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.551,
+     "bbox": [
+      0.2069,
+      0.743,
+      0.0486,
+      0.0677
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.13,
+     "bbox": [
+      0.1583,
+      0.743,
+      0.0972,
+      0.0815
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "0ae6a980-b7e8-51bd-b316-5686f0d5dd5c.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "0afd72dc-c994-5fb4-88d2-522f62e98684.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.927,
+     "bbox": [
+      0.6222,
+      0.724,
+      0.1194,
+      0.124
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "0b9b7fd2-2183-5b81-a425-c840b0a840a5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.62,
+     "bbox": [
+      0.2194,
+      0.8296,
+      0.1513,
+      0.1283
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.223,
+     "bbox": [
+      0.3027,
+      0.8296,
+      0.0694,
+      0.1259
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "0d523545-8c38-50e5-b07d-5eaece455173.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.835,
+     "bbox": [
+      0.3361,
+      0.7382,
+      0.1388,
+      0.1185
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.4055,
+      0.7728,
+      0.0708,
+      0.0839
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "0e0d859b-2c02-52b3-8b64-e60ab2ce3b7f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.894,
+     "bbox": [
+      0.6305,
+      0.0203,
+      0.3125,
+      0.9555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "0e42faf6-6310-57ca-8fee-20c24fa94810.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.473,
+     "bbox": [
+      0.5986,
+      0.776,
+      0.0986,
+      0.0763
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.069,
+     "bbox": [
+      0.5986,
+      0.7743,
+      0.05,
+      0.0659
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "0ed49683-fb3d-5067-b978-cc6ff80fcb70.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.883,
+     "bbox": [
+      0.2944,
+      0.7012,
+      0.1513,
+      0.1358
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "0f5bd4a2-673e-5333-a715-eda5f46f27f3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.033,
+     "bbox": [
+      0.0013,
+      0.9045,
+      0.0361,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.9666,
+      0.3559,
+      0.0333,
+      0.0503
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.9388,
+      0.3559,
+      0.0597,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "10697125-7757-5ce7-8460-750236cbfbe4.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "118d2525-e9bb-5f04-bd0c-fc6a038d2ff1.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.844,
+     "bbox": [
+      0.1499,
+      0.8715,
+      0.1944,
+      0.0781
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.9652,
+      0.3559,
+      0.0347,
+      0.0486
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.8749,
+      0.3576,
+      0.1222,
+      0.0902
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "12f7dccc-ea6f-5075-a922-a64dc4eb8c52.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.577,
+     "bbox": [
+      0.5194,
+      0.8315,
+      0.0305,
+      0.0538
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.033,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.017,
+     "bbox": [
+      0.4638,
+      0.8281,
+      0.0874,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1377f45f-9fdb-5364-9360-f2543bc5e14a.webp",
+   "detections": [],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "140548ff-a50a-57a3-8df6-0411be1111f5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.903,
+     "bbox": [
+      0.2277,
+      0.7604,
+      0.1152,
+      0.1851
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "15b61dac-dd2b-5e70-91fd-14c5362bb720.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.858,
+     "bbox": [
+      0.3638,
+      0.8765,
+      0.0611,
+      0.0938
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "15c57b21-26a8-5d8c-b53f-777b5b760820.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.791,
+     "bbox": [
+      0.0902,
+      0.7013,
+      0.0874,
+      0.0902
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.189,
+     "bbox": [
+      0.0888,
+      0.7395,
+      0.0555,
+      0.052
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "15efd802-0f50-5a60-abb8-bf08874275b2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.845,
+     "bbox": [
+      0.4486,
+      0.8697,
+      0.1847,
+      0.0746
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1633ceed-cad9-5079-8b26-cbf377e0e615.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.645,
+     "bbox": [
+      0.4791,
+      0.8666,
+      0.05,
+      0.1129
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.025,
+     "bbox": [
+      0.4791,
+      0.9407,
+      0.05,
+      0.0388
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "16a280d1-5a4f-5625-bad9-363ed31e9547.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.878,
+     "bbox": [
+      0.3097,
+      0.8691,
+      0.1097,
+      0.0691
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.3402,
+      0.8691,
+      0.05,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "17753840-30c9-5806-8a3d-59c730162449.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.891,
+     "bbox": [
+      0.7041,
+      0.4333,
+      0.1944,
+      0.0759
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "1889014c-3f95-58a2-8e38-919a53f42450.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.648,
+     "bbox": [
+      0.4138,
+      0.7827,
+      0.1486,
+      0.1086
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "19df6891-2f75-5b96-b104-5523f377f235.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.746,
+     "bbox": [
+      0.568,
+      0.7074,
+      0.0986,
+      0.0777
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.018,
+     "bbox": [
+      0.5027,
+      0.7037,
+      0.1638,
+      0.1074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "19fe4925-587f-58f9-bbcc-f9c02035ef49.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.324,
+     "bbox": [
+      0.2013,
+      0.9407,
+      0.0583,
+      0.0296
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.109,
+     "bbox": [
+      0.2,
+      0.9382,
+      0.1416,
+      0.032
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "1a18ca04-79a8-5865-a913-827e8efc9e10.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1aaaa784-3c3c-566a-aeb7-500c112b4aad.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.5,
+     "bbox": [
+      0.2263,
+      0.7802,
+      0.0625,
+      0.0666
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.2152,
+      0.7802,
+      0.0458,
+      0.0641
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "1b40b86f-3851-552d-a456-7a61498f8304.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.822,
+     "bbox": [
+      0.0986,
+      0.5999,
+      0.1638,
+      0.0987
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "1c702df6-4214-5dfa-b17d-d1059a11d8b5.webp",
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.079,
+     "bbox": [
+      0.0013,
+      0.0222,
+      0.9986,
+      0.9555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.049,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "1c8691be-0fcc-55dd-a9e0-5c9b796c871e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.709,
+     "bbox": [
+      0.4138,
+      0.8281,
+      0.0583,
+      0.0937
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.3513,
+      0.8263,
+      0.118,
+      0.0972
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.4152,
+      0.809,
+      0.1222,
+      0.1145
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1d8ff315-1bc3-5c8b-9015-33cb7e0ac77b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.835,
+     "bbox": [
+      0.3611,
+      0.8716,
+      0.0333,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "1ea3e57c-5b0a-5e53-8fa1-c12c6c69180b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.649,
+     "bbox": [
+      0.5763,
+      0.7135,
+      0.0375,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.022,
+     "bbox": [
+      0.5722,
+      0.71,
+      0.0722,
+      0.0694
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1ecb5e47-f28f-51be-81c4-2ad5cd5420fc.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1f2c6853-1033-53cf-a4fc-c6d492fc11b0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.825,
+     "bbox": [
+      0.5791,
+      0.7048,
+      0.0597,
+      0.0555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1f646d4c-2a9b-5933-a7e1-752820a80e62.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.49,
+     "bbox": [
+      0.0013,
+      0.9184,
+      0.0347,
+      0.0659
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.9666,
+      0.3576,
+      0.0333,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0013,
+      0.842,
+      0.0347,
+      0.1406
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1fa2dd80-6386-5b72-bfe2-7e9f8544c3f3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.758,
+     "bbox": [
+      0.4388,
+      0.8315,
+      0.1624,
+      0.092
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.526,
+     "bbox": [
+      0.7374,
+      0.8524,
+      0.1027,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.029,
+     "bbox": [
+      0.7361,
+      0.8506,
+      0.1666,
+      0.0781
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "1fd18092-872c-58eb-be9a-300c327438c0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.885,
+     "bbox": [
+      0.3208,
+      0.8716,
+      0.0958,
+      0.0641
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "20c7e725-27c0-59b1-adab-7d5e75373fc7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.925,
+     "bbox": [
+      0.7916,
+      0.5314,
+      0.0597,
+      0.0962
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "21af0926-c0af-504c-8e21-dcf07412e547.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.053,
+     "bbox": [
+      0.0013,
+      0.0222,
+      0.9972,
+      0.9555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "23d247a7-8e7e-553f-8709-9e8a2eebab94.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.07,
+     "bbox": [
+      0.0027,
+      0.0222,
+      0.9861,
+      0.9555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "23f97851-ab13-50b2-acf0-01a96340e40f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.785,
+     "bbox": [
+      0.5194,
+      0.8038,
+      0.1624,
+      0.0833
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "250a2719-792c-50fd-8f8c-b0574691a0ac.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.869,
+     "bbox": [
+      0.3444,
+      0.8129,
+      0.0555,
+      0.0537
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.0,
+      0.6259,
+      0.0402,
+      0.0388
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.3444,
+      0.8129,
+      0.0291,
+      0.0425
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "257ce770-e580-58ce-9dee-595b89f133b2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.86,
+     "bbox": [
+      0.5305,
+      0.8159,
+      0.1305,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.6,
+      0.8177,
+      0.0611,
+      0.0486
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "257d15b2-144d-5f54-8979-8c9b1bbda124.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.527,
+     "bbox": [
+      0.2916,
+      0.6145,
+      0.0319,
+      0.0451
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.2513,
+      0.6145,
+      0.0708,
+      0.0451
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "25f7fa48-a0f3-56bd-a2f0-3b40b81dfc11.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.807,
+     "bbox": [
+      0.5888,
+      0.8246,
+      0.1527,
+      0.0572
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "265bd7ff-98f3-5de7-97c9-db02389689de.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.023,
+     "bbox": [
+      0.2652,
+      0.6111,
+      0.0305,
+      0.0434
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "26d20523-8a31-5550-b105-c59d475522da.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.616,
+     "bbox": [
+      0.1513,
+      0.4617,
+      0.05,
+      0.079
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.1513,
+      0.437,
+      0.0902,
+      0.1037
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "270bc6fd-e2ea-5d01-aa67-172e9873b50e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.741,
+     "bbox": [
+      0.5652,
+      0.8593,
+      0.1916,
+      0.0694
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.5652,
+      0.8628,
+      0.0888,
+      0.0642
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "27da671b-51b1-55b3-a0db-bbd2753c8a91.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.886,
+     "bbox": [
+      0.2097,
+      0.7333,
+      0.1527,
+      0.0981
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.3013,
+      0.7314,
+      0.0611,
+      0.0981
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2828beaf-e4dd-566a-870e-a01bb515dafa.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.917,
+     "bbox": [
+      0.543,
+      0.8629,
+      0.2055,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2837d5e9-e863-5c24-a0f5-d00cf1bd7c9a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.876,
+     "bbox": [
+      0.4055,
+      0.8222,
+      0.0708,
+      0.1185
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "2862edd4-a8b2-5d16-9239-655e70fdeb29.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.667,
+     "bbox": [
+      0.4638,
+      0.7656,
+      0.1041,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.45,
+      0.7656,
+      0.118,
+      0.1649
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "287cca1c-0bfd-5b34-83b4-0e67751e6a05.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "28d5c02b-4425-54ef-a075-05423b7fc4fe.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.756,
+     "bbox": [
+      0.5708,
+      0.874,
+      0.1361,
+      0.0864
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "28dca401-e585-5d19-ac91-4a0b9bc34674.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.943,
+     "bbox": [
+      0.6138,
+      0.6462,
+      0.118,
+      0.2888
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.6152,
+      0.8388,
+      0.1166,
+      0.0962
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2961f8c6-5a5b-5b50-aa0b-7d0b57674aa5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.845,
+     "bbox": [
+      0.3194,
+      0.8055,
+      0.05,
+      0.0407
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "29a4918d-75ed-54a0-91fb-e8c92938ae9a.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "2afff1f8-2490-5960-bea5-b0f2307ae131.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.048,
+     "bbox": [
+      0.968,
+      0.3576,
+      0.0319,
+      0.0833
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.0013,
+      0.9218,
+      0.0263,
+      0.0625
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.0013,
+      0.9201,
+      0.0652,
+      0.0642
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9652,
+      0.3593,
+      0.0333,
+      0.0399
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "2b1a0130-9eb1-5a98-90db-0c8e970aaaba.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.484,
+     "bbox": [
+      0.7527,
+      0.8246,
+      0.1013,
+      0.0416
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "2b6809cc-8679-558e-953f-87a1b95678dd.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.921,
+     "bbox": [
+      0.0,
+      0.8617,
+      0.1124,
+      0.0765
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.0319,
+      0.8617,
+      0.0513,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "2bdd2adb-2dc8-58dc-a6ac-bd3516f169d1.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.82,
+     "bbox": [
+      0.5874,
+      0.832,
+      0.2069,
+      0.0913
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "2c06607c-2836-54e6-94bd-8209f68e74ec.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.886,
+     "bbox": [
+      0.6305,
+      0.8506,
+      0.2333,
+      0.1267
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "2cb1707a-40a3-55b6-ab79-68e8adcd53c2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.868,
+     "bbox": [
+      0.1638,
+      0.5407,
+      0.0319,
+      0.1111
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "2d2f0dae-d520-50c3-bb49-28863e2cdbad.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.0194,
+      0.5833,
+      0.0375,
+      0.0486
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "2d34e27a-f958-5154-b000-44ea958508e2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.911,
+     "bbox": [
+      0.6583,
+      0.8148,
+      0.2513,
+      0.1074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2d5fa9e1-0fb1-5775-9176-2994c473881c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.776,
+     "bbox": [
+      0.2305,
+      0.8913,
+      0.0375,
+      0.079
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "2d96011c-bfc1-5242-8ec7-dc061e6c9e52.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.931,
+     "bbox": [
+      0.0263,
+      0.8277,
+      0.1333,
+      0.0981
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2e0ae156-1f07-529e-a800-07932aecdc39.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.914,
+     "bbox": [
+      0.4736,
+      0.5685,
+      0.1194,
+      0.0462
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.5083,
+      0.5703,
+      0.0513,
+      0.0444
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2e4aaa07-16d9-596d-9e30-8d7c5a037dd8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.918,
+     "bbox": [
+      0.6847,
+      0.8611,
+      0.1583,
+      0.1185
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "2f2a8ca3-add7-5d1e-af1a-beebe22c3b46.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.8291,
+      0.6222,
+      0.0625,
+      0.0462
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "30394222-c4ec-5c01-ad91-5b115fa8b1a6.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.773,
+     "bbox": [
+      0.2847,
+      0.8938,
+      0.1152,
+      0.0691
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.3194,
+      0.8962,
+      0.0513,
+      0.0641
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "30956a87-dc14-5e9d-8505-7114b6b8e091.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.261,
+     "bbox": [
+      0.518,
+      0.8315,
+      0.0361,
+      0.0538
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.11,
+     "bbox": [
+      0.4638,
+      0.8281,
+      0.0902,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.019,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "314c73a5-b2e0-54f3-acd4-1d3eecc596d8.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "319127f1-abeb-5cb2-9156-e0d116ba2dc2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.57,
+     "bbox": [
+      0.7055,
+      0.8666,
+      0.1111,
+      0.0814
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.7416,
+      0.8691,
+      0.05,
+      0.0765
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "32e9eb07-8d25-5c19-a73e-a405f3914ebc.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.387,
+     "bbox": [
+      0.5166,
+      0.8246,
+      0.0402,
+      0.059
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.216,
+     "bbox": [
+      0.4638,
+      0.8246,
+      0.093,
+      0.0607
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.016,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3312c8db-1d6f-5962-823f-a59333fa2689.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.618,
+     "bbox": [
+      0.6027,
+      0.7395,
+      0.0388,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.048,
+     "bbox": [
+      0.5555,
+      0.7395,
+      0.0861,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.6027,
+      0.7378,
+      0.093,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "33585307-621d-5538-9fcc-fd00e4752eb8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.961,
+     "bbox": [
+      0.7527,
+      0.6148,
+      0.1472,
+      0.1388
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "358cd612-dbd6-57b2-9388-620e27f88f74.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3728c3e5-7583-5d91-90e1-673fbfa0554b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.889,
+     "bbox": [
+      0.6194,
+      0.8469,
+      0.0972,
+      0.1234
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.6708,
+      0.8913,
+      0.0458,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "3829e471-b80b-50c1-8479-a87baf11cd0c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.905,
+     "bbox": [
+      0.75,
+      0.8814,
+      0.1638,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "38340be5-88d0-5a9e-a57c-bc7c077793f9.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.766,
+     "bbox": [
+      0.1333,
+      0.6631,
+      0.1222,
+      0.1059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3849bc8d-becf-586e-beac-06efefa7d297.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.784,
+     "bbox": [
+      0.4319,
+      0.7777,
+      0.0541,
+      0.087
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "397c6dc2-66c2-5ddb-a0bd-b277e5bb7e64.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.591,
+     "bbox": [
+      0.4499,
+      0.5283,
+      0.0375,
+      0.0839
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "39d51a3e-75e7-5f06-9714-6afaabbf6648.webp",
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.023,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9574
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "3a6b6dba-ddc7-5eb2-8719-c638055cb91b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.937,
+     "bbox": [
+      0.0,
+      0.524,
+      0.0763,
+      0.2333
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.7736,
+      0.7851,
+      0.0194,
+      0.0259
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "3a728b11-c86a-5fde-be22-fae2c6dcdaa0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.5902,
+      0.7222,
+      0.0305,
+      0.0451
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3a8fdb49-bab2-5044-bc79-af795683466a.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "3ad9a3e6-814a-5f56-a56f-31cca4ba7c04.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.533,
+     "bbox": [
+      0.0916,
+      0.7361,
+      0.0375,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.0375,
+      0.7361,
+      0.0916,
+      0.0555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0916,
+      0.7291,
+      0.0805,
+      0.0572
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3b289194-3f39-51e8-82f4-bade54c922ca.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.155,
+     "bbox": [
+      0.0013,
+      0.9027,
+      0.0361,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.017,
+     "bbox": [
+      0.9694,
+      0.3559,
+      0.0305,
+      0.052
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3bc85c1c-7b30-5d56-ab70-a32dd6c838e7.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "3c1d9d38-fbf9-50a7-87e9-defde3c23fa1.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "3c527dc9-7483-552d-a5f8-9346067f1d65.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.816,
+     "bbox": [
+      0.5652,
+      0.8506,
+      0.1263,
+      0.0503
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3c596485-671b-5dd3-adab-e20c0fd892b2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.92,
+     "bbox": [
+      0.6333,
+      0.0222,
+      0.3083,
+      0.7314
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "3cfb3133-7b8d-5b62-83f6-65ad0de6e341.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.589,
+     "bbox": [
+      0.8263,
+      0.802,
+      0.0333,
+      0.0486
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "3dfea166-b48e-5074-8535-eccb34a24d8e.webp",
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.168,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9574
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.116,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "3ed23eef-89e6-5a96-a519-4e365ac201f3.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4050fcdf-26e5-5140-9f0a-edb28581b525.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.927,
+     "bbox": [
+      0.6819,
+      0.8537,
+      0.1513,
+      0.0425
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "40b73b11-ddbd-5315-a88b-328baba1f526.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4251b645-a3bb-563f-a367-8e86eaab4f9d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.426,
+     "bbox": [
+      0.7652,
+      0.7456,
+      0.1083,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "44799e0d-801d-573f-97ee-ba5d33a79777.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.085,
+     "bbox": [
+      0.0013,
+      0.8993,
+      0.0319,
+      0.0815
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.9652,
+      0.3541,
+      0.0347,
+      0.0833
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.9527,
+      0.3524,
+      0.0472,
+      0.1545
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "45572afd-bae8-570e-be63-02d2ddb4b884.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.586,
+     "bbox": [
+      0.5916,
+      0.7274,
+      0.0472,
+      0.0416
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.175,
+     "bbox": [
+      0.5555,
+      0.7152,
+      0.0833,
+      0.0538
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.5902,
+      0.7274,
+      0.1416,
+      0.0381
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "468a0e68-8835-5d85-a4b3-ad4064a56ce3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.675,
+     "bbox": [
+      0.6874,
+      0.7722,
+      0.0263,
+      0.037
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.018,
+     "bbox": [
+      0.6861,
+      0.7722,
+      0.0597,
+      0.037
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "46eb3e63-6b6b-5b47-8f75-0556d72590b6.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.751,
+     "bbox": [
+      0.9083,
+      0.687,
+      0.043,
+      0.0703
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.8583,
+      0.687,
+      0.093,
+      0.0759
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "4776ef53-e73f-57c4-989a-af5f308ba03f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.89,
+     "bbox": [
+      0.2666,
+      0.6691,
+      0.1152,
+      0.1185
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "48c203c5-a6fa-55de-a02f-2fde3140ac9e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.854,
+     "bbox": [
+      0.1055,
+      0.8296,
+      0.1416,
+      0.074
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.9638,
+      0.9333,
+      0.0361,
+      0.0462
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "4952c0b4-1b07-527b-bf45-c97933a75b81.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.838,
+     "bbox": [
+      0.2694,
+      0.8617,
+      0.1291,
+      0.0691
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "49a3dcbf-ff28-587b-b892-a7c53794ac97.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.95,
+     "bbox": [
+      0.7611,
+      0.474,
+      0.1055,
+      0.1555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "49b96b00-7de5-58eb-a323-04aef98ca574.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.877,
+     "bbox": [
+      0.375,
+      0.6592,
+      0.1166,
+      0.0567
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.4083,
+      0.6592,
+      0.0513,
+      0.0567
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "49f94531-fc70-50d2-8c1e-f5233bbbadb8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.049,
+     "bbox": [
+      0.0013,
+      0.9236,
+      0.0763,
+      0.0607
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.0013,
+      0.9236,
+      0.0291,
+      0.0607
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.968,
+      0.3576,
+      0.0319,
+      0.0468
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4ab25e71-d823-56d2-80b4-9066dea6ece1.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4acb2591-cbc0-5d47-ac68-f50de0cf0666.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.952,
+     "bbox": [
+      0.7583,
+      0.5111,
+      0.1305,
+      0.2425
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "4ae78588-6340-5d49-bacb-b6a445fe1d7d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.893,
+     "bbox": [
+      0.5208,
+      0.7407,
+      0.0958,
+      0.0987
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "4b45a1c7-0614-50b5-802e-add3402e8f50.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.728,
+     "bbox": [
+      0.6125,
+      0.8663,
+      0.143,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4b4732da-dc27-5275-9b84-7ae6e73d96e3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.828,
+     "bbox": [
+      0.5472,
+      0.8814,
+      0.1013,
+      0.079
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "4c16ee57-a5ad-5b1e-ba37-aa462b2c23e9.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.841,
+     "bbox": [
+      0.1666,
+      0.4938,
+      0.0388,
+      0.0987
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "4da0696f-055f-5d69-9382-bfcc6b60b0ac.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.048,
+     "bbox": [
+      0.0013,
+      0.0222,
+      0.9944,
+      0.9574
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.6444,
+      0.8296,
+      0.0958,
+      0.1481
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "4df50a03-33af-5947-bd7e-4a4eed8395f2.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "4e693d95-b760-558c-ab20-9aeb1e175c0f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.749,
+     "bbox": [
+      0.4888,
+      0.8472,
+      0.1847,
+      0.1006
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.037,
+     "bbox": [
+      0.4875,
+      0.8715,
+      0.1097,
+      0.0763
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4e9bc841-598c-5edf-923c-539b3abef05c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.72,
+     "bbox": [
+      0.4986,
+      0.6567,
+      0.1208,
+      0.0691
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.021,
+     "bbox": [
+      0.5638,
+      0.6592,
+      0.0569,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "4e9c33fc-67a1-5cdd-93b7-93a57cc70a04.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.941,
+     "bbox": [
+      0.5513,
+      0.7864,
+      0.1652,
+      0.1215
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4eac3d29-b966-544d-af8d-f9591d5343e1.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.821,
+     "bbox": [
+      0.0375,
+      0.7395,
+      0.0638,
+      0.1805
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.022,
+     "bbox": [
+      0.0374,
+      0.8159,
+      0.0444,
+      0.1024
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "4ead89d3-7461-5da9-938a-fc36183fc554.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.858,
+     "bbox": [
+      0.7402,
+      0.7944,
+      0.0902,
+      0.0648
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "50397785-fa46-595c-9f38-f55ffbccbd7c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.886,
+     "bbox": [
+      0.6402,
+      0.7129,
+      0.0694,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "503a3ddd-0f92-595b-bb64-838a69ec4df0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.941,
+     "bbox": [
+      0.6597,
+      0.8444,
+      0.1875,
+      0.1351
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "504ddb94-713d-5004-b116-3b80421e8eb3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.959,
+     "bbox": [
+      0.6319,
+      0.8185,
+      0.2055,
+      0.1611
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "509becee-6b12-5448-bddd-f1f99c3aae99.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.671,
+     "bbox": [
+      0.5069,
+      0.8524,
+      0.0652,
+      0.0677
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.021,
+     "bbox": [
+      0.5069,
+      0.7951,
+      0.0874,
+      0.125
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "510550c6-af46-5a73-ba75-afb4a29b6347.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.907,
+     "bbox": [
+      0.6319,
+      0.8148,
+      0.1888,
+      0.1648
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "511cd7fd-cce8-596e-a38c-55c1aafe4151.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.37,
+     "bbox": [
+      0.5819,
+      0.7552,
+      0.0291,
+      0.0416
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "5255e912-55c1-58f4-84c2-632966df780f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.098,
+     "bbox": [
+      0.4486,
+      0.7481,
+      0.0472,
+      0.0691
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "53cc8d8e-22a2-5353-872f-575c13b8b424.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.881,
+     "bbox": [
+      0.4249,
+      0.8975,
+      0.2805,
+      0.0868
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "541319a9-d5c6-55cb-be5f-150d983ce540.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.446,
+     "bbox": [
+      0.2013,
+      0.6444,
+      0.0291,
+      0.0913
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.1624,
+      0.637,
+      0.0722,
+      0.1037
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "54996fca-aa01-5154-a7be-dcbf53ac8ae5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.654,
+     "bbox": [
+      0.1597,
+      0.9114,
+      0.0861,
+      0.0729
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "553b47eb-b347-5183-91f9-79c75952b807.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.891,
+     "bbox": [
+      0.6791,
+      0.4944,
+      0.1347,
+      0.0555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "5674b15c-f481-553d-a051-b00de4db27cb.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.781,
+     "bbox": [
+      0.6361,
+      0.0444,
+      0.3611,
+      0.6518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "5712d4e0-1d49-5d53-b659-290a35fb67a3.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "57a02eab-00cb-5180-8d0b-71cb383f0df7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.813,
+     "bbox": [
+      0.5444,
+      0.879,
+      0.1027,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "58363b91-b847-596a-849d-70102c5c327b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.111,
+     "bbox": [
+      0.0013,
+      0.0222,
+      0.9972,
+      0.9555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "5a6ccf58-aaf8-5a51-b0ea-fba8af71b14d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.938,
+     "bbox": [
+      0.6708,
+      0.7796,
+      0.1916,
+      0.1259
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "5b10e735-f84f-5fca-bc24-af2e90187f2b.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "5b6cfb6f-1a67-5069-bf9d-d21f0241e2da.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.861,
+     "bbox": [
+      0.55,
+      0.8437,
+      0.0916,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "5bd3fdaa-f782-542a-a1f3-00c54a6a1227.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.92,
+     "bbox": [
+      0.4041,
+      0.5407,
+      0.093,
+      0.087
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "5d9eb2c8-511b-596b-ac78-53c2a1cac392.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "5db3b1a7-1fe9-540d-a408-8a8f39bd517b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.022,
+     "bbox": [
+      0.2263,
+      0.8296,
+      0.0583,
+      0.0691
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.021,
+     "bbox": [
+      0.2277,
+      0.7876,
+      0.1277,
+      0.1111
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "5e418557-c124-5419-b978-8c540a27ff35.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "5f9c10fe-4cfb-54ab-a888-d4aa70b7ec68.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.939,
+     "bbox": [
+      0.1708,
+      0.837,
+      0.1138,
+      0.1018
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.2027,
+      0.8444,
+      0.0513,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "5fd3b67a-5a56-56db-a51b-f2dd7e7d058a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.0,
+      0.0203,
+      0.9986,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "60bd6f69-fa62-50f1-b7d1-e781e4c3b2e0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.922,
+     "bbox": [
+      0.2347,
+      0.8388,
+      0.2013,
+      0.1351
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "60eaa9bf-8b7a-5b45-82ac-8f8d53f69c29.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.889,
+     "bbox": [
+      0.5291,
+      0.7829,
+      0.0513,
+      0.0746
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "620949c9-650d-5f80-be91-f751ec63fcfb.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.905,
+     "bbox": [
+      0.5194,
+      0.7851,
+      0.0694,
+      0.0444
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "62673b00-c397-57a1-9747-f90036c3f36e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.754,
+     "bbox": [
+      0.3722,
+      0.6371,
+      0.0347,
+      0.0486
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.032,
+     "bbox": [
+      0.3722,
+      0.6354,
+      0.0777,
+      0.0503
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.022,
+     "bbox": [
+      0.3277,
+      0.6371,
+      0.0805,
+      0.0503
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "62756208-1426-548b-ba52-583655940929.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.937,
+     "bbox": [
+      0.5499,
+      0.7864,
+      0.1666,
+      0.1197
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "62b47f58-d30a-5f9d-9e99-adafbdb216e9.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.683,
+     "bbox": [
+      0.7416,
+      0.8628,
+      0.1624,
+      0.0555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "62fa043f-6c6c-5363-af4d-4e14c8cdde03.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.921,
+     "bbox": [
+      0.4722,
+      0.8003,
+      0.193,
+      0.0694
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "635d70f7-e024-5283-a791-6d83274eb53b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.618,
+     "bbox": [
+      0.468,
+      0.4666,
+      0.0222,
+      0.0469
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.4416,
+      0.4666,
+      0.0486,
+      0.0493
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "648906df-67d4-5b94-a027-0ba1dc4881a6.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.467,
+     "bbox": [
+      0.2291,
+      0.9086,
+      0.0375,
+      0.0617
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.2277,
+      0.9086,
+      0.0944,
+      0.0617
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "658e1a62-27ea-5fb2-a3b6-ea4e52b5f6d4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.796,
+     "bbox": [
+      0.593,
+      0.8641,
+      0.118,
+      0.1061
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "65a14c33-b6f3-5f43-9276-d26946365919.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.118,
+     "bbox": [
+      0.5847,
+      0.7621,
+      0.0444,
+      0.0416
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.5236,
+      0.7621,
+      0.1055,
+      0.0434
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "65a37661-487e-5fea-a218-69c6019e9fbe.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.319,
+     "bbox": [
+      0.1208,
+      0.8567,
+      0.1611,
+      0.1037
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.139,
+     "bbox": [
+      0.2152,
+      0.8567,
+      0.0638,
+      0.079
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.2097,
+      0.8567,
+      0.1236,
+      0.0938
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "65b14fa7-35d3-5002-8f96-038351e45fd9.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.031,
+     "bbox": [
+      0.9652,
+      0.3559,
+      0.0347,
+      0.0503
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.9611,
+      0.3559,
+      0.0388,
+      0.1059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "65bd3866-8bf7-5100-aa59-7feea5579299.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.025,
+     "bbox": [
+      0.9652,
+      0.3559,
+      0.0347,
+      0.0815
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.024,
+     "bbox": [
+      0.8749,
+      0.3559,
+      0.1236,
+      0.0937
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.968,
+      0.3541,
+      0.0319,
+      0.0434
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.925,
+      0.3559,
+      0.0722,
+      0.0607
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "65fe64da-e5f6-5630-80b6-87ddecbc6461.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "664a327b-f35a-5d3c-a7fe-3baca0e44b6a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.635,
+     "bbox": [
+      0.4333,
+      0.9259,
+      0.1069,
+      0.0444
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.3541,
+      0.9135,
+      0.1847,
+      0.0567
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "664f4abc-a0b1-51e8-b57e-becbe0303aed.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.632,
+     "bbox": [
+      0.293,
+      0.6145,
+      0.0666,
+      0.0555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "66dd6f20-56a9-5351-870c-f5f2d3ae5c1e.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "671c49e9-497d-50c2-a6fa-80c8e51f6cca.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.219,
+     "bbox": [
+      0.2583,
+      0.7308,
+      0.0874,
+      0.1012
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.152,
+     "bbox": [
+      0.2597,
+      0.7802,
+      0.0291,
+      0.0469
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.023,
+     "bbox": [
+      0.2527,
+      0.753,
+      0.0513,
+      0.0716
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.2236,
+      0.7506,
+      0.0666,
+      0.0765
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "67b0e1b7-73cb-5857-a730-e6aaf611e05f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.439,
+     "bbox": [
+      0.3111,
+      0.96,
+      0.0708,
+      0.0243
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.019,
+     "bbox": [
+      0.2361,
+      0.9583,
+      0.1458,
+      0.026
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "68c2900c-cffe-518b-8c86-ea0d34b33664.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.897,
+     "bbox": [
+      0.2208,
+      0.8987,
+      0.1166,
+      0.0716
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.2527,
+      0.9012,
+      0.0527,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "691c7709-b634-5afe-94ca-56490b4e681d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.744,
+     "bbox": [
+      0.9152,
+      0.824,
+      0.0416,
+      0.1537
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "6ab7ff2b-498c-5f69-b2f6-ee1123452c26.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "6ad02161-cb4b-5e32-92f3-25d28cb58122.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.916,
+     "bbox": [
+      0.3263,
+      0.7796,
+      0.1097,
+      0.0611
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.3569,
+      0.7814,
+      0.0513,
+      0.0574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "6b2d1b92-63cb-5eaa-a37b-8cc2dc13674f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.902,
+     "bbox": [
+      0.3541,
+      0.753,
+      0.1388,
+      0.1234
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.4319,
+      0.7802,
+      0.0611,
+      0.0962
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "6b6bcd10-00f6-5f5d-9f75-b0e4cdd3b6a8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.608,
+     "bbox": [
+      0.5624,
+      0.717,
+      0.0416,
+      0.0677
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.5263,
+      0.717,
+      0.0777,
+      0.0798
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "6cb84070-c9a1-5793-befa-c377e7169f89.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.918,
+     "bbox": [
+      0.3222,
+      0.8203,
+      0.0888,
+      0.0388
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.0,
+      0.624,
+      0.0388,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "6d226b6d-fcfc-5078-8c73-72b88d8f7694.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.707,
+     "bbox": [
+      0.4888,
+      0.5308,
+      0.0291,
+      0.074
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.4583,
+      0.5135,
+      0.0597,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "6d9f5fde-38f6-52c3-bb80-d9ef59fee59d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.87,
+     "bbox": [
+      0.4013,
+      0.8368,
+      0.1708,
+      0.052
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "6ea4708c-cb05-561d-b6ed-9d9639fa2257.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.928,
+     "bbox": [
+      0.4722,
+      0.8003,
+      0.1902,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.6638,
+      0.6267,
+      0.0833,
+      0.0642
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "6f7cdc48-aa71-561a-9e67-a657ad25b902.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.897,
+     "bbox": [
+      0.2763,
+      0.879,
+      0.1402,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "6f84ddc5-2ee2-5f8a-9627-6e0b19d7f319.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.639,
+     "bbox": [
+      0.4819,
+      0.8784,
+      0.0736,
+      0.0729
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "7001af17-92e1-5191-9b92-234b89dc1be7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.618,
+     "bbox": [
+      0.0611,
+      0.4407,
+      0.0694,
+      0.1037
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.0555,
+      0.4388,
+      0.05,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "70df4b47-163f-5076-a271-0a311f23296e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.892,
+     "bbox": [
+      0.4041,
+      0.842,
+      0.1694,
+      0.0468
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "71982dea-3d10-5116-9994-00a2c5860723.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.897,
+     "bbox": [
+      0.1944,
+      0.8611,
+      0.0986,
+      0.1111
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.033,
+     "bbox": [
+      0.7986,
+      0.2666,
+      0.2013,
+      0.1981
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.9624,
+      0.9333,
+      0.0375,
+      0.0462
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.218,
+      0.8685,
+      0.0486,
+      0.1
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "735eda3d-f947-57b2-a15b-b6b7d7aea805.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.906,
+     "bbox": [
+      0.4472,
+      0.774,
+      0.1805,
+      0.1314
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "73e646b0-0bd7-5580-af72-bb89e66571a0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.88,
+     "bbox": [
+      0.0152,
+      0.7361,
+      0.0902,
+      0.1649
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "746fb3fb-9a88-58e0-b0a3-9734f3e7c3a1.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.549,
+     "bbox": [
+      0.2222,
+      0.9012,
+      0.0347,
+      0.0691
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.2263,
+      0.9358,
+      0.0347,
+      0.0345
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "74ad7b50-0ae6-52b4-bcb1-a039b45dbd19.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.447,
+     "bbox": [
+      0.5194,
+      0.8298,
+      0.0319,
+      0.0538
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.08,
+     "bbox": [
+      0.468,
+      0.8281,
+      0.0847,
+      0.0555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.052,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "75a24ff0-ca14-5442-b379-94e6019ccacf.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.928,
+     "bbox": [
+      0.1638,
+      0.7648,
+      0.1638,
+      0.1055
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "760eeccc-cf19-5468-91f4-11b95cb3890d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.684,
+     "bbox": [
+      0.1722,
+      0.8385,
+      0.1083,
+      0.0625
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.9652,
+      0.3541,
+      0.0347,
+      0.0885
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "76481fc6-b81a-5ed8-826b-cf21194527d8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.933,
+     "bbox": [
+      0.6041,
+      0.837,
+      0.1152,
+      0.0648
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.6347,
+      0.8388,
+      0.0513,
+      0.0629
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "76eb2874-7829-5be9-9ef5-5d54a124434e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.855,
+     "bbox": [
+      0.0125,
+      0.6388,
+      0.1069,
+      0.0833
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.0402,
+      0.6407,
+      0.0513,
+      0.0777
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "779095ca-68e7-5baa-ab30-13c5e45e2fed.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.334,
+     "bbox": [
+      0.0013,
+      0.0222,
+      0.9986,
+      0.9555
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.005,
+     "bbox": [
+      0.0027,
+      0.0203,
+      0.7666,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "782924dc-a4a5-5627-bf0a-de4af385dee5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.292,
+     "bbox": [
+      0.0986,
+      0.6074,
+      0.0458,
+      0.0716
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.047,
+     "bbox": [
+      0.0361,
+      0.5728,
+      0.1083,
+      0.1061
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "7afdbc89-5a68-5337-9a86-f179b05b7805.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.236,
+     "bbox": [
+      0.0583,
+      0.0203,
+      0.3027,
+      0.6555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.076,
+     "bbox": [
+      0.0,
+      0.0222,
+      0.9986,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "7dbdf1ee-c226-5d22-93c3-9b309a1c06fd.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "7e66b08c-1b1e-5466-b623-45f250487336.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.472,
+     "bbox": [
+      0.7277,
+      0.8697,
+      0.125,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.7291,
+      0.8298,
+      0.1944,
+      0.1128
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "7ec5f695-aa54-5a28-a6b4-3643069b7da2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.918,
+     "bbox": [
+      0.7194,
+      0.7981,
+      0.118,
+      0.0648
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.7527,
+      0.8,
+      0.0513,
+      0.0611
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "7ed6522b-a5b3-5863-9585-92dae9a14a74.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.667,
+     "bbox": [
+      0.6208,
+      0.677,
+      0.0513,
+      0.0642
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "7eee5e09-d772-5f2a-876e-614777b5e80e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.753,
+     "bbox": [
+      0.568,
+      0.7309,
+      0.0361,
+      0.0659
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.5138,
+      0.7309,
+      0.0902,
+      0.125
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "7f3bc19a-f08c-569f-b693-ef8b92993418.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.949,
+     "bbox": [
+      0.8305,
+      0.8055,
+      0.0944,
+      0.1611
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "7f8f2083-f1cf-57ae-960d-95312c90105e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.943,
+     "bbox": [
+      0.5513,
+      0.7864,
+      0.1652,
+      0.1215
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "8045c6a4-f1b9-5519-995a-cc7501c5dd4c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.885,
+     "bbox": [
+      0.7305,
+      0.8839,
+      0.1694,
+      0.0839
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "80a50369-c12e-53c9-95be-da61534ab1b5.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "810e2966-ff8d-5837-9852-2907d3efdfed.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "816dd456-6851-52f9-b689-0f723c07a221.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.868,
+     "bbox": [
+      0.3361,
+      0.8037,
+      0.0694,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "822a25e5-da82-5602-b6a1-049a62c88a56.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.873,
+     "bbox": [
+      0.4347,
+      0.7259,
+      0.1472,
+      0.1654
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "822eb557-a0b1-5f9f-9867-dfcada35048b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.942,
+     "bbox": [
+      0.5374,
+      0.85,
+      0.2,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "82e6654e-2a81-59b1-9852-34f82208b0e4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.96,
+     "bbox": [
+      0.7555,
+      0.6148,
+      0.1472,
+      0.1388
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "82e6ec3a-2e63-5bb1-ac57-4603878cd235.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.785,
+     "bbox": [
+      0.2347,
+      0.6913,
+      0.1444,
+      0.0617
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "830e6ce4-0370-5b89-bd00-887d17e43f82.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.71,
+     "bbox": [
+      0.3722,
+      0.824,
+      0.025,
+      0.0351
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.035,
+     "bbox": [
+      0.3138,
+      0.824,
+      0.0819,
+      0.0444
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.025,
+     "bbox": [
+      0.0,
+      0.624,
+      0.0402,
+      0.0481
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "846c898f-572c-5101-8162-0a7206654d23.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.908,
+     "bbox": [
+      0.2513,
+      0.8351,
+      0.0625,
+      0.0962
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "847d6496-e5ce-5a2c-a535-827c77e97593.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.61,
+     "bbox": [
+      0.0805,
+      0.8691,
+      0.1194,
+      0.0987
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "853210ae-41c7-55c1-a87a-4e47955b6c19.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "85a93a32-ecb1-54a4-aade-99c51dca76f2.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "85dba783-5092-56a0-be4c-a2dd13458f78.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.938,
+     "bbox": [
+      0.0013,
+      0.5907,
+      0.118,
+      0.1796
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.7749,
+      0.787,
+      0.018,
+      0.024
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "863fcc3a-071f-5cb2-9d87-2b04f3d1c179.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "863fe459-9c8f-5cee-9bbb-49f5d0f3f584.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.921,
+     "bbox": [
+      0.5513,
+      0.8444,
+      0.1347,
+      0.0407
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "8830d7bd-c820-5fa8-a18b-cbbd854ca1cd.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.708,
+     "bbox": [
+      0.0013,
+      0.7899,
+      0.0902,
+      0.1232
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "88bb02d9-3cd3-5a2c-a823-ff2b7d9b36b0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.175,
+     "bbox": [
+      0.5777,
+      0.7326,
+      0.0277,
+      0.0468
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "8964206c-af00-5841-a013-9024149f460f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.606,
+     "bbox": [
+      0.0027,
+      0.8854,
+      0.1888,
+      0.0902
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.053,
+     "bbox": [
+      0.9666,
+      0.3541,
+      0.0333,
+      0.1354
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.046,
+     "bbox": [
+      0.968,
+      0.3541,
+      0.0319,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.043,
+     "bbox": [
+      0.0027,
+      0.9045,
+      0.1152,
+      0.0642
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.8763,
+      0.3559,
+      0.1222,
+      0.0937
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "89af40d0-971a-5a5d-8542-a1ca06e771f7.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "8a22b35b-c2d0-5a10-8ac7-81c10dc393c5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.962,
+     "bbox": [
+      0.3916,
+      0.8388,
+      0.2111,
+      0.1407
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "8ad41a84-3ade-5ba3-a6d9-eeab722b7ee5.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "8cb81448-53ea-5913-8eee-a18a8047ae2d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.588,
+     "bbox": [
+      0.1388,
+      0.9037,
+      0.0388,
+      0.0666
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.1333,
+      0.8419,
+      0.0458,
+      0.1283
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "8d395399-4589-50a7-9ba4-59bf94cc4b3c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.895,
+     "bbox": [
+      0.8291,
+      0.4814,
+      0.125,
+      0.05
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.9666,
+      0.4407,
+      0.0333,
+      0.0722
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9833,
+      0.4555,
+      0.0166,
+      0.0592
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "8f910872-7028-5435-a64a-ff30f52df359.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.787,
+     "bbox": [
+      0.15,
+      0.8229,
+      0.0777,
+      0.0972
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "8f9acf0e-4420-55db-a007-d08e7e7c9c41.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.723,
+     "bbox": [
+      0.3708,
+      0.8472,
+      0.168,
+      0.0711
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "90766a6e-8e95-58c5-969f-0b8cd85715bc.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.823,
+     "bbox": [
+      0.3361,
+      0.7185,
+      0.0541,
+      0.1086
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "90a37abb-3240-578d-b75b-130133053da3.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.811,
+     "bbox": [
+      0.5624,
+      0.8864,
+      0.068,
+      0.0839
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "910e0aea-fdbf-5167-aeeb-1070dc39ac4d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.919,
+     "bbox": [
+      0.3722,
+      0.8814,
+      0.0513,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "9156ee2e-eec7-5bc6-b870-859936570572.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.829,
+     "bbox": [
+      0.8458,
+      0.4759,
+      0.1277,
+      0.05
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "936fd8ee-be93-5624-a4cc-2c49467fd86b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.501,
+     "bbox": [
+      0.1638,
+      0.8419,
+      0.1458,
+      0.0641
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.089,
+     "bbox": [
+      0.2666,
+      0.8419,
+      0.05,
+      0.0518
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.2666,
+      0.8419,
+      0.0597,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "93eded45-036c-53ba-a691-1771a3226af7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.862,
+     "bbox": [
+      0.0527,
+      0.7277,
+      0.0791,
+      0.0796
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "9492f12a-b335-5289-88d3-fd46b24c3e90.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.927,
+     "bbox": [
+      0.0,
+      0.8518,
+      0.0805,
+      0.1
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "949850cf-cc9e-56de-9b09-41b94c479ecd.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.55,
+     "bbox": [
+      0.3416,
+      0.6518,
+      0.0708,
+      0.0617
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.368,
+     "bbox": [
+      0.3861,
+      0.6518,
+      0.0263,
+      0.0617
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "94bc0f70-f6db-5147-b3f6-94ef5cf81249.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.927,
+     "bbox": [
+      0.3319,
+      0.7518,
+      0.0638,
+      0.0944
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "952307f4-1e63-539a-ad09-e7323ad95b98.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.891,
+     "bbox": [
+      0.2694,
+      0.5347,
+      0.1402,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.101,
+     "bbox": [
+      0.3611,
+      0.5347,
+      0.0486,
+      0.0763
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "959db907-92c7-517a-89b6-b3050a0d0ce1.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "9a75c701-a271-52e0-8fb5-031bde8fc5f7.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "9ad7cac4-5a95-5ea8-87bf-a3df53195882.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "9b0442d3-47e8-5cf2-a86d-f6185954d2c8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.692,
+     "bbox": [
+      0.6194,
+      0.6543,
+      0.0805,
+      0.0493
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.6222,
+      0.6543,
+      0.0361,
+      0.0469
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "9b759d49-e450-5a34-95c2-a1e434ebda4d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.923,
+     "bbox": [
+      0.5694,
+      0.2407,
+      0.1375,
+      0.0925
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "9ba4ae86-062f-526d-8f82-12b8c79ce8ec.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.64,
+     "bbox": [
+      0.1194,
+      0.6493,
+      0.0513,
+      0.079
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "9c1f64a3-5953-5070-8719-039ad84dd8f4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.052,
+     "bbox": [
+      0.0,
+      0.0222,
+      1.0,
+      0.9555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "9d231276-7715-5664-82e4-c3cc9f139e8a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.844,
+     "bbox": [
+      0.5111,
+      0.8166,
+      0.1041,
+      0.0925
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.5125,
+      0.8592,
+      0.0861,
+      0.05
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.5388,
+      0.8222,
+      0.0513,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "9f00ae11-e61f-534d-927c-4992ff11d043.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.689,
+     "bbox": [
+      0.0694,
+      0.7308,
+      0.2152,
+      0.0962
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "9f03033b-7dba-5741-bdcf-310bb573c98a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.053,
+     "bbox": [
+      0.6555,
+      0.5685,
+      0.0527,
+      0.037
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.044,
+     "bbox": [
+      0.6527,
+      0.5537,
+      0.0902,
+      0.0537
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.018,
+     "bbox": [
+      0.3513,
+      0.5462,
+      0.0263,
+      0.0407
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.2888,
+      0.8314,
+      0.0777,
+      0.0685
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9666,
+      0.674,
+      0.0333,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "a10e1719-c113-5ff8-bebc-cdf619f94989.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.643,
+     "bbox": [
+      0.7277,
+      0.8159,
+      0.0777,
+      0.0486
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.018,
+     "bbox": [
+      0.6902,
+      0.7829,
+      0.1152,
+      0.0815
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a1a590e2-ae09-5c2d-afd5-c1807de1e62c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.841,
+     "bbox": [
+      0.493,
+      0.8437,
+      0.1,
+      0.0451
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a31c351b-4fb1-534c-918e-86d24d9ff603.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.1666,
+      0.6371,
+      0.0583,
+      0.0329
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a39bb8e5-2a4a-5186-aa01-285f5532f667.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a414fe67-9573-538f-ac2d-80a0e17b877e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.907,
+     "bbox": [
+      0.7472,
+      0.8839,
+      0.1652,
+      0.0864
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "a4f6b123-1000-5b3b-b758-5d52948ebcb7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.553,
+     "bbox": [
+      0.0597,
+      0.7986,
+      0.0958,
+      0.0503
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a5468b4b-6a5b-5d0f-b475-a4e2cc33b84f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.039,
+     "bbox": [
+      0.9666,
+      0.3559,
+      0.0333,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.0013,
+      0.9288,
+      0.0263,
+      0.0555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.9694,
+      0.3559,
+      0.0305,
+      0.0399
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a5a5b57c-08ac-5b21-a3cd-6d666bbcd6a4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.79,
+     "bbox": [
+      0.8208,
+      0.8715,
+      0.1777,
+      0.1111
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a62e4c5b-0b72-5d82-ba18-44371422b84a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.016,
+     "bbox": [
+      0.968,
+      0.3576,
+      0.0319,
+      0.0833
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.0013,
+      0.9218,
+      0.0305,
+      0.0625
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9708,
+      0.3559,
+      0.0291,
+      0.0381
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a66c3111-357d-5a67-84a9-a79a75f140ec.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a6b4e4d3-ed1c-5504-85e7-527d1a74f433.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.693,
+     "bbox": [
+      0.2958,
+      0.8906,
+      0.1763,
+      0.0607
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.968,
+      0.3576,
+      0.0319,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.9388,
+      0.3576,
+      0.0611,
+      0.0781
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.8777,
+      0.3559,
+      0.1208,
+      0.092
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a6e005ea-238d-5298-a85f-78a617150dad.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "a6e09fea-9206-5fd9-ba07-dd6a1b34cdd4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.907,
+     "bbox": [
+      0.7458,
+      0.8839,
+      0.1666,
+      0.0864
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "a74579a0-e301-595a-9a72-6cde3853195d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.664,
+     "bbox": [
+      0.0611,
+      0.6962,
+      0.0375,
+      0.0574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "a75d80b0-5f3a-5031-8d79-fae77c0bd452.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.927,
+     "bbox": [
+      0.575,
+      0.8648,
+      0.1652,
+      0.0481
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "a7740b06-4b82-5218-abf4-a0d56abd7f1d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.488,
+     "bbox": [
+      0.0013,
+      0.9079,
+      0.0916,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0013,
+      0.8906,
+      0.1638,
+      0.0972
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a7f8d1d0-3827-5218-b5e3-94d574909bfe.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.821,
+     "bbox": [
+      0.7416,
+      0.7944,
+      0.093,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "a9484708-4e9b-5f97-a167-5dbf7faf3a44.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "a9b0cd02-a89f-596d-b4ab-e18d6410e40b.webp",
+   "detections": [],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "aa426bb8-57ec-5869-bc49-841a4415a969.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "aa4e852a-65be-5e84-b7a0-cd93d25ed21f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.2319,
+      0.7851,
+      0.1416,
+      0.0592
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ab29b57c-e55e-5b9b-bbe0-1389ac356c96.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.818,
+     "bbox": [
+      0.5888,
+      0.8592,
+      0.1222,
+      0.1111
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ab7f6fb3-2e6d-5f5a-b559-5a50ab797636.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ab86dd42-ad45-59fb-ab4c-f07eb8dbfdfb.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.573,
+     "bbox": [
+      0.2875,
+      0.8419,
+      0.0555,
+      0.0567
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.2208,
+      0.8296,
+      0.1222,
+      0.0765
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.2513,
+      0.753,
+      0.093,
+      0.1456
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.275,
+      0.8419,
+      0.068,
+      0.1185
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ab9047c7-972e-55c0-af9e-9e6babca193d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.707,
+     "bbox": [
+      0.0013,
+      0.8177,
+      0.1319,
+      0.0711
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.032,
+     "bbox": [
+      0.9666,
+      0.3559,
+      0.0333,
+      0.085
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.9694,
+      0.3559,
+      0.0305,
+      0.0434
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9555,
+      0.3559,
+      0.0444,
+      0.1475
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "abc320a3-e622-536b-b62c-29e6347461e7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.634,
+     "bbox": [
+      0.2902,
+      0.7703,
+      0.0805,
+      0.0481
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.2902,
+      0.7722,
+      0.0402,
+      0.0407
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ace75f23-2ce7-5ccb-bce8-0b1fe2a20b8f.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "acf4d02d-8346-5d2d-88d3-2eece0c4e479.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ad7be5e0-00be-5af7-ba61-d9d81dcc7a53.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.841,
+     "bbox": [
+      0.2305,
+      0.7326,
+      0.1124,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.2597,
+      0.7326,
+      0.0513,
+      0.0503
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "af8d1369-a197-5168-93d0-0e312e2318c7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.689,
+     "bbox": [
+      0.5083,
+      0.5012,
+      0.0263,
+      0.0592
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.5083,
+      0.4864,
+      0.05,
+      0.0765
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "afb32b32-d0a3-5b5b-b5b5-6d9205318c7b.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b0d54bdc-3a7a-5c31-84fe-19606eceac63.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.955,
+     "bbox": [
+      0.6638,
+      0.8203,
+      0.1583,
+      0.1592
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "b12a7e2f-69c1-5dfa-a178-81021bdc5d07.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b1648281-2796-5080-90d1-418799ec6102.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b1f7b8a5-f033-5390-adf6-278abb305500.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.817,
+     "bbox": [
+      0.6736,
+      0.9061,
+      0.1124,
+      0.0641
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.7027,
+      0.9086,
+      0.0513,
+      0.0617
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b377b59c-03f7-5f2c-8075-c056eaee37f1.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "b3d70590-389a-55f3-9328-03976d95e358.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "b40e22ca-a9b8-5e69-a1a3-4e5c265f03ad.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.581,
+     "bbox": [
+      0.5194,
+      0.8298,
+      0.0319,
+      0.0555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.036,
+     "bbox": [
+      0.4791,
+      0.8281,
+      0.0722,
+      0.0555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.025,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "b41283d3-4f37-5247-9009-82b734e09d5a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.934,
+     "bbox": [
+      0.5513,
+      0.7864,
+      0.1652,
+      0.1197
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.6319,
+      0.8333,
+      0.0847,
+      0.0746
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "b4be97ef-4047-5774-ae95-87a573a382c2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.68,
+     "bbox": [
+      0.4638,
+      0.4765,
+      0.0555,
+      0.0518
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.4638,
+      0.474,
+      0.1152,
+      0.0543
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b5268553-ea76-572d-9e34-e3aa6c71d50a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.954,
+     "bbox": [
+      0.3,
+      0.8259,
+      0.1916,
+      0.0851
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "b52f55f2-0d08-579e-910d-28633173eb4e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.687,
+     "bbox": [
+      0.2638,
+      0.7703,
+      0.0333,
+      0.0814
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.049,
+     "bbox": [
+      0.2458,
+      0.7333,
+      0.0513,
+      0.116
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.2111,
+      0.7703,
+      0.0861,
+      0.0864
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.2638,
+      0.7308,
+      0.0819,
+      0.1209
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b53f55c3-7809-5bc2-b402-58993e3b9792.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.931,
+     "bbox": [
+      0.5083,
+      0.8444,
+      0.1458,
+      0.0425
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "b6ed9f83-120a-574b-9e1f-52e30ad1fec7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.928,
+     "bbox": [
+      0.0,
+      0.8703,
+      0.1458,
+      0.05
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "b779500c-208c-532a-bdd2-a8fbfe171881.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.528,
+     "bbox": [
+      0.5194,
+      0.8263,
+      0.0305,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.06,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.4652,
+      0.8263,
+      0.0861,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "b8bf9df3-8326-5154-b281-bf547f5a2666.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.83,
+     "bbox": [
+      0.3513,
+      0.8148,
+      0.0263,
+      0.05
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.0,
+      0.624,
+      0.0402,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "b8c53aab-0b22-57d6-8d75-a39c91c1d818.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.874,
+     "bbox": [
+      0.2069,
+      0.6666,
+      0.1375,
+      0.0864
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b9327832-a1fb-5d34-bcbc-8f0e7076ab7c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.77,
+     "bbox": [
+      0.3541,
+      0.8111,
+      0.0305,
+      0.0518
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.026,
+     "bbox": [
+      0.0,
+      0.624,
+      0.0402,
+      0.0444
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "b958c05d-8ca6-5517-ba99-15f24f5914cc.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "b99c9247-ee3d-570c-9448-e0822c392408.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.937,
+     "bbox": [
+      0.293,
+      0.8055,
+      0.0944,
+      0.174
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.293,
+      0.8796,
+      0.0652,
+      0.1
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ba74a10d-66f7-5807-a5a8-5256b2a7c465.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.847,
+     "bbox": [
+      0.7347,
+      0.8938,
+      0.1722,
+      0.0765
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ba967c52-d2d6-5771-96aa-1f92d76210a9.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.717,
+     "bbox": [
+      0.6638,
+      0.8194,
+      0.068,
+      0.0347
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "baef6b96-3aa0-5366-90d0-8f67bd2a9263.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.934,
+     "bbox": [
+      0.3611,
+      0.8277,
+      0.1222,
+      0.05
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.0,
+      0.6259,
+      0.0402,
+      0.0481
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "bb99834b-e41e-5442-b1de-de4afc70d452.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.689,
+     "bbox": [
+      0.0,
+      0.7061,
+      0.1027,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "bcdbaf37-9512-5f62-a284-13be41db738c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.942,
+     "bbox": [
+      0.4319,
+      0.5481,
+      0.0916,
+      0.0777
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "be600aef-4092-5083-ae9b-4846482961d5.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.817,
+     "bbox": [
+      0.7388,
+      0.8203,
+      0.0333,
+      0.0425
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.9847,
+      0.95,
+      0.0152,
+      0.0296
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "becfdfd1-1b18-5a27-898d-17e278e52eac.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "befbaf88-e3e3-5429-92bf-8949527c7fc6.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.698,
+     "bbox": [
+      0.0791,
+      0.7274,
+      0.0847,
+      0.0642
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "bf16004b-0d1e-5950-8c1b-4fa825de1dfc.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.119,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "bfaabee4-b6c4-5a95-b38f-7284dd73454d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.615,
+     "bbox": [
+      0.5277,
+      0.8541,
+      0.0555,
+      0.0451
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.5138,
+      0.8142,
+      0.0652,
+      0.085
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "c0ca87db-f251-5c78-994d-ec97f77f7a33.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.882,
+     "bbox": [
+      0.5263,
+      0.8462,
+      0.1458,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "c129eda5-1fc3-5045-b511-2085db603844.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.892,
+     "bbox": [
+      0.7472,
+      0.8864,
+      0.1555,
+      0.0839
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "c15c39e4-7cae-59a0-a071-5b9738134b98.webp",
+   "detections": [
+    {
+     "category": "2",
+     "conf": 0.265,
+     "bbox": [
+      0.0013,
+      0.0203,
+      0.9972,
+      0.9574
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.15,
+     "bbox": [
+      0.0013,
+      0.4037,
+      0.1749,
+      0.574
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.0,
+      0.0185,
+      1.0,
+      0.9555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "c1ab26f2-6908-5a6f-bbf0-631594dd0b96.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.474,
+     "bbox": [
+      0.793,
+      0.7234,
+      0.05,
+      0.0814
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.7583,
+      0.7259,
+      0.0722,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "c2c9534d-c30e-59c3-88c3-9f14f6a5bc9d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.719,
+     "bbox": [
+      0.5527,
+      0.842,
+      0.0847,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "c345dd8c-ec74-56fc-94bf-8b588d524d63.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "c389d398-49bd-58c7-b8a9-d037fb2253ed.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.632,
+     "bbox": [
+      0.1583,
+      0.6716,
+      0.0777,
+      0.1061
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "c508589e-3e8c-5b00-95ff-d07cc90bda58.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.919,
+     "bbox": [
+      0.1944,
+      0.7351,
+      0.1027,
+      0.1907
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "c52815d5-6d4b-5fab-99fc-b88ab28a22cd.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.712,
+     "bbox": [
+      0.3652,
+      0.8055,
+      0.1555,
+      0.1111
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "c546c545-d73a-5c27-b32c-3b391bc61fdf.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.745,
+     "bbox": [
+      0.0013,
+      0.9027,
+      0.1708,
+      0.0746
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.018,
+     "bbox": [
+      0.968,
+      0.3576,
+      0.0319,
+      0.0486
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.01,
+     "bbox": [
+      0.9666,
+      0.3576,
+      0.0333,
+      0.1059
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.8763,
+      0.3576,
+      0.1222,
+      0.0902
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "c557ea96-d5d1-5f6a-b9ba-ef79d4a4a338.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.0972,
+      0.9277,
+      0.0277,
+      0.0518
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.011,
+     "bbox": [
+      0.0,
+      0.9277,
+      0.125,
+      0.05
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "c5737455-f49b-533f-ab1b-9fd0f974bc6c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.936,
+     "bbox": [
+      0.0,
+      0.5296,
+      0.075,
+      0.224
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.017,
+     "bbox": [
+      0.7749,
+      0.787,
+      0.018,
+      0.024
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "c5aea39a-f79e-55ae-ac8c-725553dc9fd2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.097,
+     "bbox": [
+      0.5166,
+      0.8229,
+      0.0333,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.054,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.023,
+     "bbox": [
+      0.4652,
+      0.8211,
+      0.0833,
+      0.0555
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "c6d1e92f-387e-5410-bcea-652829591383.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.862,
+     "bbox": [
+      0.4597,
+      0.8777,
+      0.1333,
+      0.05
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "c815b3ad-c1ae-5fcc-a3ce-5b82fcf21b24.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ca0d6e1e-1b8e-56ca-8cc3-0b1b14abe03e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.934,
+     "bbox": [
+      0.1763,
+      0.7166,
+      0.1124,
+      0.0851
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.2069,
+      0.7203,
+      0.0527,
+      0.0777
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ca26c372-834d-5efd-9cfc-42a44a8e2669.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.806,
+     "bbox": [
+      0.4736,
+      0.6469,
+      0.0972,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ca7cfa41-ade9-53f1-8d78-23ef535b5ab7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.701,
+     "bbox": [
+      0.4249,
+      0.4469,
+      0.0722,
+      0.0543
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "caa678e6-1aff-5ef1-bbbf-536f4d710660.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cab96d15-7737-50dc-b33d-9af704664a05.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.06,
+     "bbox": [
+      0.0,
+      0.0203,
+      1.0,
+      0.9592
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "cb2c55f9-0786-5ae4-8eb4-1efba418daac.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.041,
+     "bbox": [
+      0.0,
+      0.0203,
+      0.9986,
+      0.9574
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "cb5e6eb1-cc4c-5adf-a499-9b0045768f28.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.872,
+     "bbox": [
+      0.2944,
+      0.8197,
+      0.0638,
+      0.1407
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "cbd80eb4-9f8a-55b3-a3e4-f6441e5885d7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.705,
+     "bbox": [
+      0.4666,
+      0.7901,
+      0.0736,
+      0.0913
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.07,
+     "bbox": [
+      0.3833,
+      0.7876,
+      0.1583,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ccb9f59c-634c-5273-baad-8c0d1e8f4990.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.928,
+     "bbox": [
+      0.0013,
+      0.7552,
+      0.1069,
+      0.1562
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.018,
+     "bbox": [
+      0.9736,
+      0.1475,
+      0.0263,
+      0.1163
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.0013,
+      0.8177,
+      0.0805,
+      0.0937
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cd3887c3-bb65-5110-9dd3-085d4e3899ee.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.813,
+     "bbox": [
+      0.3486,
+      0.8697,
+      0.075,
+      0.1145
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cd487a0b-29f5-528e-8331-11a2223780e2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.925,
+     "bbox": [
+      0.5999,
+      0.8592,
+      0.1527,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "cdbd7c3e-7937-5e00-be4a-5bf898fbf8ce.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.628,
+     "bbox": [
+      0.8486,
+      0.7986,
+      0.075,
+      0.0434
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.8361,
+      0.7604,
+      0.0888,
+      0.085
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cdc6c053-9d4d-5a1e-afa1-f4198dc4706a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.822,
+     "bbox": [
+      0.4013,
+      0.8072,
+      0.0861,
+      0.1163
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cecc0b69-0a90-590a-b44c-a7f7fe2209da.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cedb7668-3884-59fa-82a0-56514788d009.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.438,
+     "bbox": [
+      0.5194,
+      0.8281,
+      0.0319,
+      0.0572
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.044,
+     "bbox": [
+      0.4291,
+      0.9045,
+      0.1208,
+      0.0798
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.04,
+     "bbox": [
+      0.4805,
+      0.8263,
+      0.0708,
+      0.059
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "cee3dc73-b684-5d59-96c7-cbcb4964b7bb.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "cfc9000e-5957-5269-b0fa-b96e55e24266.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d14ca0ca-96ca-5fcf-b773-d717cc71aa53.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d1b40ecc-e240-5c11-ba19-ee91f9087322.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.575,
+     "bbox": [
+      0.0013,
+      0.8993,
+      0.0833,
+      0.0763
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0013,
+      0.8993,
+      0.0347,
+      0.0711
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "d260691f-30d8-52ef-9ee4-82de2c7f1738.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.824,
+     "bbox": [
+      0.6624,
+      0.758,
+      0.1208,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d2eba73c-2439-5cd5-9f51-e7a8b4b66db8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.532,
+     "bbox": [
+      0.1138,
+      0.6271,
+      0.0583,
+      0.0962
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.019,
+     "bbox": [
+      0.1194,
+      0.6271,
+      0.1041,
+      0.1086
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d4698457-5c17-57cb-bb0e-d8a44df8d163.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.849,
+     "bbox": [
+      0.3611,
+      0.7135,
+      0.1388,
+      0.1629
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d4781b04-1b96-5388-b564-4693fba4a21d.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "d5de3314-c011-5e96-b475-9029f3c654ab.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.719,
+     "bbox": [
+      0.1763,
+      0.4296,
+      0.0319,
+      0.0691
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.036,
+     "bbox": [
+      0.1763,
+      0.4049,
+      0.0541,
+      0.0938
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d69a022a-5c72-5722-a490-1ecc6da92ee7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.897,
+     "bbox": [
+      0.6402,
+      0.7666,
+      0.0916,
+      0.0444
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "d704893c-d8fa-5722-82c7-42a3353d0ec7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.937,
+     "bbox": [
+      0.0055,
+      0.8592,
+      0.1444,
+      0.0611
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "d7221b61-2771-5e86-ba78-e758e0355c26.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.434,
+     "bbox": [
+      0.0902,
+      0.8493,
+      0.1833,
+      0.0938
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.338,
+     "bbox": [
+      0.2124,
+      0.8493,
+      0.0611,
+      0.0913
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "d80c4c04-2457-5b09-ab20-3a7679abffa8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.542,
+     "bbox": [
+      0.5222,
+      0.835,
+      0.0305,
+      0.0538
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.03,
+     "bbox": [
+      0.4638,
+      0.8281,
+      0.0902,
+      0.0607
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.4305,
+      0.9045,
+      0.1194,
+      0.0798
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "da7f52b6-5c0f-548c-8e70-293b4e56d28a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.791,
+     "bbox": [
+      0.318,
+      0.7604,
+      0.1472,
+      0.0864
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.044,
+     "bbox": [
+      0.4013,
+      0.7604,
+      0.0652,
+      0.0864
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "daa9ed5e-ef2a-5c0e-a486-92f75581e9c0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.898,
+     "bbox": [
+      0.2944,
+      0.7703,
+      0.2166,
+      0.1037
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.2944,
+      0.7703,
+      0.0972,
+      0.1037
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "dbde765d-244e-597f-aaa5-8c5e94ab4de2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.883,
+     "bbox": [
+      0.6041,
+      0.887,
+      0.2347,
+      0.0518
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "df0c8d04-fcb3-5d95-9984-1db266cc905e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.564,
+     "bbox": [
+      0.6944,
+      0.7274,
+      0.0736,
+      0.0347
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "df90e0fa-2f50-5617-bd1a-20617aa5a8bd.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.0361,
+      0.8049,
+      0.0611,
+      0.0888
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "dfc47a06-abab-51c5-aefb-9a77da33d805.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.82,
+     "bbox": [
+      0.3388,
+      0.7604,
+      0.1277,
+      0.0888
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.0236,
+      0.7654,
+      0.0527,
+      0.1012
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.4041,
+      0.7629,
+      0.0555,
+      0.0864
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e0d726d3-c20c-5bde-9675-5fd4243eb6f7.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.91,
+     "bbox": [
+      0.1736,
+      0.7209,
+      0.2027,
+      0.1111
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e130667c-1c4f-5690-bb63-b893a391f417.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.599,
+     "bbox": [
+      0.4861,
+      0.5382,
+      0.0291,
+      0.0493
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.028,
+     "bbox": [
+      0.4569,
+      0.5358,
+      0.0583,
+      0.0567
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e132df26-1db6-56c9-b333-c85406ef873a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.771,
+     "bbox": [
+      0.5402,
+      0.8211,
+      0.1402,
+      0.0416
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e18398f8-91ff-5745-8731-d6dfda2aa53d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.919,
+     "bbox": [
+      0.6916,
+      0.4888,
+      0.1597,
+      0.087
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "e19423a5-4dfb-5390-af7d-84f3d7d720ef.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e1a0cbe0-e225-5aea-9a0c-90dba65035de.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e1bace5e-6d37-509f-b793-f85972c60b99.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.677,
+     "bbox": [
+      0.9666,
+      0.6592,
+      0.0333,
+      0.0629
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9319,
+      0.6537,
+      0.068,
+      0.0796
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "e278a9ed-ea7d-5767-a12f-a74000dc96fc.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e58d23b5-9b34-5dcc-a4f6-5f2ea49fa44d.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.168,
+      0.6371,
+      0.0583,
+      0.0329
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e5c6d0e8-c750-5bfa-9f01-5db1c96f14ef.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.831,
+     "bbox": [
+      0.4291,
+      0.2925,
+      0.1138,
+      0.1092
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "e646682c-16f7-5cfb-b961-dca1900df340.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.855,
+     "bbox": [
+      0.5819,
+      0.6469,
+      0.0625,
+      0.0567
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e7004915-2073-5e47-80d8-d39a2eeacc23.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.0805,
+      0.9392,
+      0.068,
+      0.0451
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e7cc589d-2b0f-5d5f-bd42-93304c93b3e9.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.751,
+     "bbox": [
+      0.475,
+      0.4592,
+      0.0291,
+      0.0518
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.02,
+     "bbox": [
+      0.475,
+      0.437,
+      0.0541,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e7d670ac-2451-5fdd-8e8f-f25810848bfa.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.912,
+     "bbox": [
+      0.0013,
+      0.5981,
+      0.3416,
+      0.3796
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "e7eb6e58-8411-53e1-b19d-6d6b711dcbd6.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "e7f27223-edc1-57f3-9059-c72d03a9c276.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.473,
+     "bbox": [
+      0.6194,
+      0.7239,
+      0.0416,
+      0.0399
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.012,
+     "bbox": [
+      0.6194,
+      0.7239,
+      0.0791,
+      0.0486
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.5666,
+      0.7222,
+      0.0944,
+      0.0451
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e8d249d7-ed6a-5b7b-bd85-eb1f4d7cdc6b.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.075,
+     "bbox": [
+      0.5708,
+      0.7378,
+      0.0305,
+      0.0538
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.007,
+     "bbox": [
+      0.5347,
+      0.7187,
+      0.0666,
+      0.0746
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "e9b44806-f058-5a89-89b0-f66c6cc0ca01.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.918,
+     "bbox": [
+      0.5152,
+      0.5296,
+      0.1194,
+      0.05
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.5499,
+      0.5314,
+      0.0513,
+      0.0462
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.9624,
+      0.4129,
+      0.0375,
+      0.1
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "e9bde721-ac48-5da1-baf7-a446d4a31073.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.364,
+     "bbox": [
+      0.5055,
+      0.6684,
+      0.0583,
+      0.052
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.5069,
+      0.6336,
+      0.0736,
+      0.085
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ea1ebee9-7f95-5bce-bc66-3baec98c39a0.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.953,
+     "bbox": [
+      0.0083,
+      0.8648,
+      0.15,
+      0.0592
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ea2212a7-72bb-5519-9575-7efbcccd2c07.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.876,
+     "bbox": [
+      0.4986,
+      0.8098,
+      0.2027,
+      0.0987
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "eab06d7f-b7f0-5d3e-a299-d48e3deb6059.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.213,
+     "bbox": [
+      0.2944,
+      0.832,
+      0.0472,
+      0.0567
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.035,
+     "bbox": [
+      0.2513,
+      0.7432,
+      0.0874,
+      0.1456
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ebf537c0-2584-572b-bbc3-92fd53db9b2e.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.904,
+     "bbox": [
+      0.0513,
+      0.6909,
+      0.1097,
+      0.1822
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ecab7b17-19b2-5ccd-b83e-4f425d4c878c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.1805,
+      0.7986,
+      0.0513,
+      0.0868
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.0791,
+      0.9392,
+      0.0708,
+      0.0451
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ee6d8309-5fb4-5d6f-8c72-81d3a20083f4.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.646,
+     "bbox": [
+      0.0013,
+      0.8715,
+      0.0263,
+      0.0902
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.968,
+      0.3559,
+      0.0319,
+      0.0468
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.006,
+     "bbox": [
+      0.0,
+      0.8697,
+      0.0722,
+      0.0937
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ef6be42e-3410-55ac-9b8a-3702d552ae54.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.867,
+     "bbox": [
+      0.8749,
+      0.8493,
+      0.1152,
+      0.0765
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.008,
+     "bbox": [
+      0.9083,
+      0.8518,
+      0.0513,
+      0.0716
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "f01d9b24-a7d9-5947-9632-54d77a4b9168.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.941,
+     "bbox": [
+      0.4347,
+      0.5537,
+      0.093,
+      0.0703
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "f2c1ee6d-2622-5555-bb74-d502a718e224.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.848,
+     "bbox": [
+      0.5444,
+      0.8814,
+      0.1069,
+      0.0814
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "f328c259-f7a2-523f-86f0-d80fcc4a83fa.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "f32ba8f9-0a24-5bb4-b685-8def8779e550.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.931,
+     "bbox": [
+      0.043,
+      0.8351,
+      0.1388,
+      0.0851
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "f3be3482-a6a3-5803-a88c-705de08cd16f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.961,
+     "bbox": [
+      0.6444,
+      0.6925,
+      0.2166,
+      0.287
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "f46032ec-a978-55c8-a649-00c49993b663.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.699,
+     "bbox": [
+      0.2583,
+      0.7901,
+      0.0361,
+      0.0938
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.015,
+     "bbox": [
+      0.2194,
+      0.7901,
+      0.075,
+      0.0987
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "f57e05c8-fb49-5a5f-b32f-006c5a73b73a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.79,
+     "bbox": [
+      0.6138,
+      0.8296,
+      0.1583,
+      0.0938
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "f6ba4a0d-81d4-512c-a12d-0d5ac30f404a.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.703,
+     "bbox": [
+      0.8736,
+      0.6851,
+      0.0861,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "f838008c-7f26-5e4f-8c0d-c40f7dd53f79.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.682,
+     "bbox": [
+      0.5805,
+      0.8229,
+      0.1277,
+      0.0381
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "f8bcbaa5-5105-5038-98cd-dd9e50afac2f.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.093,
+     "bbox": [
+      0.8152,
+      0.7382,
+      0.0402,
+      0.0716
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "f9135159-38ab-5606-8d89-f02c32c98060.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.966,
+     "bbox": [
+      0.4236,
+      0.8351,
+      0.3125,
+      0.1425
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "f97bfd0d-ceff-55d3-ad9d-58a33b3e90a1.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "fa045aed-a2a8-5cfa-9b06-c92810914094.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fa093990-7eb7-51cd-b77d-e599c18ba32c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.632,
+     "bbox": [
+      0.8486,
+      0.6944,
+      0.0652,
+      0.0434
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.009,
+     "bbox": [
+      0.8041,
+      0.6805,
+      0.1097,
+      0.0555
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.005,
+     "bbox": [
+      0.168,
+      0.6371,
+      0.0569,
+      0.0329
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fa37e729-1638-52f0-9cf2-96ae11ea2a77.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.677,
+     "bbox": [
+      0.0861,
+      0.474,
+      0.0555,
+      0.0777
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.013,
+     "bbox": [
+      0.0861,
+      0.474,
+      0.1027,
+      0.0981
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "fa84bf99-b5e9-50b3-9222-48bbad6ee4d8.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.798,
+     "bbox": [
+      0.4083,
+      0.5456,
+      0.0625,
+      0.0666
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "fada453f-de94-5294-83b5-a74426c8a377.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.935,
+     "bbox": [
+      0.0055,
+      0.8592,
+      0.1444,
+      0.0611
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "fb0d18a2-ef88-51db-bfd4-f3de31739079.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.762,
+     "bbox": [
+      0.3069,
+      0.8666,
+      0.068,
+      0.0839
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "fbee00f3-93f9-58f2-b296-1af9b650e4c2.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.775,
+     "bbox": [
+      0.9027,
+      0.8871,
+      0.0958,
+      0.0607
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fc405771-6066-5ba7-a8e4-9644d7c396af.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fca91fe6-19ff-5a0e-a807-3139f5a0fb3e.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fcbedbb0-31aa-51a6-b688-1351d99fbcbe.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.622,
+     "bbox": [
+      0.5277,
+      0.8402,
+      0.0597,
+      0.0729
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.014,
+     "bbox": [
+      0.4777,
+      0.8246,
+      0.1097,
+      0.0885
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fd0805a0-1811-5f23-b179-5009ec22e660.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fd3ea41f-c9c2-58ea-bb59-33534933d95d.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fd5f7875-43d7-58c3-9bed-5f0cc373cb72.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.739,
+     "bbox": [
+      0.6444,
+      0.879,
+      0.1208,
+      0.0913
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "fda90033-d973-54fc-adbd-ea74a5b6fba6.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.451,
+     "bbox": [
+      0.4888,
+      0.5481,
+      0.0291,
+      0.0592
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "fe1ec328-004e-5378-a087-e4dee0d5a655.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "fea87a07-c27a-5223-acc3-02a85c150f0c.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.879,
+     "bbox": [
+      0.418,
+      0.5759,
+      0.1055,
+      0.0685
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.872,
+     "bbox": [
+      0.4736,
+      0.8518,
+      0.1291,
+      0.1277
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ff0e25b9-8edb-5591-b12c-f6d465dae6ae.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.699,
+     "bbox": [
+      0.4263,
+      0.787,
+      0.0847,
+      0.087
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.118,
+     "bbox": [
+      0.4013,
+      0.7092,
+      0.1097,
+      0.1648
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ff4d0e1b-1c68-53a6-a41f-824f437b6d72.webp",
+   "detections": [],
+   "width": 720,
+   "height": 576
+  },
+  {
+   "file": "ff7252b8-c52a-5e34-9916-b95454759d32.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.942,
+     "bbox": [
+      0.443,
+      0.5518,
+      0.0847,
+      0.074
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 540
+  },
+  {
+   "file": "ff8d867e-a63b-5292-8094-f6ccddf495fb.webp",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.415,
+     "bbox": [
+      0.1458,
+      0.9358,
+      0.068,
+      0.037
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.354,
+     "bbox": [
+      0.1458,
+      0.9259,
+      0.125,
+      0.0444
+     ]
+    }
+   ],
+   "width": 720,
+   "height": 405
+  },
+  {
+   "file": "ffa038cd-1578-57df-abfe-9aab3fc6d29a.webp",
+   "detections": [],
+   "width": 720,
+   "height": 405
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2026-07-17 11:44:06",
+  "format_version": "1.6",
+  "detector": "MDV1000-redwood",
+  "detector_metadata": {
+   "url": "https://github.com/agentmorris/MegaDetector/releases/download/v1000.0/md_v1000.0.0-redwood.pt",
+   "normalized_typical_inference_speed": 1.0,
+   "md5": "74474b3aec9cf1a990da38b37ddf9197",
+   "typical_detection_threshold": 0.3,
+   "megadetector_version": "v1000.0.0-redwood"
+  },
+  "custom_metadata": {
+   "purpose": "filter genus-only LILA Peromyscus candidates",
+   "output_threshold": 0.005
+  }
+ }
+}

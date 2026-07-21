@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.venv/
+.venv-*/
+venv/
+.ipynb_checkpoints/
+
+# Notebook-generated data and caches
+*_bioclip25_features.npz
+quantized_embedding_cache/
+camera_trap_embedding_cache/
+biobench_data/
+biobench_slice_cache/
+
+# Exported models and checkpoints
+*.onnx
+*.engine
+*.pt
+*.pth
+*.safetensors

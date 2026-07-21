@@ -1,0 +1,28 @@
+# Local environment:
+#   uv venv .venv-peromyscus --python 3.12
+#   uv pip install --python .venv-peromyscus/bin/python \
+#       -r notebooks/requirements.txt
+#
+# Colab uses uv against its disposable system environment; see the notebook setup cell.
+
+datasets==4.5.0
+pylance>=8,<9
+pyarrow>=20,<26
+polars>=1.30,<2
+huggingface-hub>=0.30,<2
+open_clip_torch>=3,<4
+torch>=2.11
+torchvision>=0.26
+torchao>=0.17,<0.18
+scikit-learn>=1.6,<2
+matplotlib>=3.9,<4
+numpy>=1.26,<3
+Pillow>=10,<13
+requests>=2.32,<3
+tqdm>=4.66,<5
+ipykernel>=6
+ipywidgets>=8,<9
+jupyterlab_widgets>=3,<4
+widgetsnbextension>=4,<5
+plotly>=6,<7
+anywidget>=0.9,<1
